@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#083b0d</color>
+    <color name="colorPrimaryDark">#083b0d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_background">#026840</color>
+    <color name="scores_background">#060004</color>
+    <color name="scores_font_color">#f53938</color>
+</resources>
